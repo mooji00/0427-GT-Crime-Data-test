@@ -1,4 +1,4 @@
-let canvasScale = 0.3;
+let canvasScale = 1;
 let mapImg, crimeData;
 let video, poseNet;
 
